@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Model>
+  <Mode modified="TRUE" name="Default">
+    <View>
+      <Type>VIEW_TYPE_PARCAN</Type>
+      <Power>VIEW_POWER_2</Power>
+      <AnglePan>0</AnglePan>
+      <AngleTilt>0</AngleTilt>
+      <AngleBeam>24</AngleBeam>
+      <AngleBeamZoom>24</AngleBeamZoom>
+      <ReversePan>FALSE</ReversePan>
+      <ReverseTilt>FALSE</ReverseTilt>
+      <ReverseDimmer>FALSE</ReverseDimmer>
+      <ReverseIris>FALSE</ReverseIris>
+      <Color>#ffffff</Color>
+    </View>
+    <Matrix>
+      <FirstChannel>0</FirstChannel>
+      <NbLines>0</NbLines>
+      <NbColumns>0</NbColumns>
+      <PixelType>MATRIX_TYPE_RGB</PixelType>
+      <StartCorner>0</StartCorner>
+      <Orientation>0</Orientation>
+      <SnakeMode>0</SnakeMode>
+      <MatrixDMX></MatrixDMX>
+    </Matrix>
+    <Channels>
+      <Channel name="red" path="colors/"/>
+      <Channel name="green" path="colors/"/>
+      <Channel name="blue" path="colors/"/>
+      <Channel name="dimmer" path="dimmer/"/>
+      <Channel name="strobe" path="strobe/"/>
+    </Channels>
+  </Mode>
+</Model>

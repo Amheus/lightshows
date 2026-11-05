@@ -99,4 +99,44 @@
     <Object Id="1793913075673" Name="/Top/Blinder/09" Position="-3|6.4|-7.5" Rotation="75|0|0" Scale="1|1|1" Color="100|100|100"/>
     <Object Id="1793913075674" Name="/Top/Blinder/10" Position="-4|6.4|-7.5" Rotation="75|0|0" Scale="1|1|1" Color="100|100|100"/>
     <Object Id="1793913075675" Name="/Top/Blinder/11" Position="-5|6.4|-7.5" Rotation="75|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793913678073" Name="/Room/Left/Uplight/01" Position="7.3|0.1|-5" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793913866721" Name="/Room/Left/Uplight/02" Position="7.3|0.1|-4" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793913866722" Name="/Room/Left/Uplight/03" Position="7.3|0.1|-3" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793913866723" Name="/Room/Left/Uplight/04" Position="7.3|0.1|-2" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793913866724" Name="/Room/Left/Uplight/05" Position="7.3|0.1|-1" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793913866725" Name="/Room/Left/Uplight/06" Position="7.3|0.1|0" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793913866726" Name="/Room/Left/Uplight/07" Position="7.3|0.1|1" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793913866727" Name="/Room/Left/Uplight/08" Position="7.3|0.1|2" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793913866728" Name="/Room/Left/Uplight/09" Position="7.3|0.1|3" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793913866729" Name="/Room/Left/Uplight/10" Position="7.3|0.1|4" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793913866730" Name="/Room/Left/Uplight/11" Position="7.3|0.1|5" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793913866731" Name="/Room/Left/Uplight/12" Position="7.3|0.1|6" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793913866732" Name="/Room/Left/Uplight/13" Position="7.3|0.1|7" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793913866733" Name="/Room/Left/Uplight/14" Position="7.3|0.1|8" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793913866734" Name="/Room/Left/Uplight/15" Position="7.3|0.1|9" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793913866735" Name="/Room/Left/Uplight/16" Position="7.3|0.1|10" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793913866736" Name="/Room/Left/Uplight/17" Position="7.3|0.1|11" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793913866737" Name="/Room/Left/Uplight/18" Position="7.3|0.1|12" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793913866738" Name="/Room/Left/Uplight/19" Position="7.3|0.1|13" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793913866739" Name="/Room/Left/Uplight/20" Position="7.3|0.1|14" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793914206389" Name="/Room/Right/Uplight/01" Position="-7.3|0.1|-5" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793914206390" Name="/Room/Right/Uplight/02" Position="-7.3|0.1|-4" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793914206391" Name="/Room/Right/Uplight/03" Position="-7.3|0.1|-3" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793914206392" Name="/Room/Right/Uplight/04" Position="-7.3|0.1|-2" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793914206393" Name="/Room/Right/Uplight/05" Position="-7.3|0.1|-1" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793914206394" Name="/Room/Right/Uplight/06" Position="-7.3|0.1|0" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793914206395" Name="/Room/Right/Uplight/07" Position="-7.3|0.1|1" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793914206396" Name="/Room/Right/Uplight/08" Position="-7.3|0.1|2" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793914206397" Name="/Room/Right/Uplight/09" Position="-7.3|0.1|3" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793914206398" Name="/Room/Right/Uplight/10" Position="-7.3|0.1|4" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793914206399" Name="/Room/Right/Uplight/11" Position="-7.3|0.1|5" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793914206400" Name="/Room/Right/Uplight/12" Position="-7.3|0.1|6" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793914206401" Name="/Room/Right/Uplight/13" Position="-7.3|0.1|7" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793914206402" Name="/Room/Right/Uplight/14" Position="-7.3|0.1|8" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793914206403" Name="/Room/Right/Uplight/15" Position="-7.3|0.1|9" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793914206404" Name="/Room/Right/Uplight/16" Position="-7.3|0.1|10" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793914206405" Name="/Room/Right/Uplight/17" Position="-7.3|0.1|11" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793914206406" Name="/Room/Right/Uplight/18" Position="-7.3|0.1|12" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793914206407" Name="/Room/Right/Uplight/19" Position="-7.3|0.1|13" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793914206408" Name="/Room/Right/Uplight/20" Position="-7.3|0.1|14" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
 </Patch>

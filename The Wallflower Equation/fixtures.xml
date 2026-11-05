@@ -716,8 +716,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793909099749</Id>
     <_2DView>
-      <PosX>58</PosX>
-      <PosY>5</PosY>
+      <PosX>57</PosX>
+      <PosY>3</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -729,7 +729,7 @@
     <Id>1793909099750</Id>
     <_2DView>
       <PosX>58</PosX>
-      <PosY>43</PosY>
+      <PosY>37</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -741,7 +741,7 @@
     <Id>1793909099751</Id>
     <_2DView>
       <PosX>57</PosX>
-      <PosY>80</PosY>
+      <PosY>70</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -752,8 +752,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793909099752</Id>
     <_2DView>
-      <PosX>54</PosX>
-      <PosY>118</PosY>
+      <PosX>55</PosX>
+      <PosY>103</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -777,7 +777,7 @@
     <Id>1793909099754</Id>
     <_2DView>
       <PosX>211</PosX>
-      <PosY>46</PosY>
+      <PosY>40</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -789,7 +789,7 @@
     <Id>1793909099755</Id>
     <_2DView>
       <PosX>210</PosX>
-      <PosY>83</PosY>
+      <PosY>73</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -800,8 +800,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793909099756</Id>
     <_2DView>
-      <PosX>211</PosX>
-      <PosY>120</PosY>
+      <PosX>212</PosX>
+      <PosY>105</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -813,7 +813,7 @@
     <Id>1793909099757</Id>
     <_2DView>
       <PosX>12</PosX>
-      <PosY>58</PosY>
+      <PosY>48</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -825,7 +825,7 @@
     <Id>1793909099758</Id>
     <_2DView>
       <PosX>12</PosX>
-      <PosY>97</PosY>
+      <PosY>87</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -836,8 +836,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793909099759</Id>
     <_2DView>
-      <PosX>12</PosX>
-      <PosY>138</PosY>
+      <PosX>13</PosX>
+      <PosY>123</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -849,7 +849,7 @@
     <Id>1793909099760</Id>
     <_2DView>
       <PosX>13</PosX>
-      <PosY>177</PosY>
+      <PosY>157</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -860,8 +860,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793909099761</Id>
     <_2DView>
-      <PosX>12</PosX>
-      <PosY>220</PosY>
+      <PosX>13</PosX>
+      <PosY>193</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -873,7 +873,7 @@
     <Id>1793909099762</Id>
     <_2DView>
       <PosX>149</PosX>
-      <PosY>59</PosY>
+      <PosY>49</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -885,7 +885,7 @@
     <Id>1793909099763</Id>
     <_2DView>
       <PosX>149</PosX>
-      <PosY>95</PosY>
+      <PosY>85</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -896,8 +896,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793909099764</Id>
     <_2DView>
-      <PosX>150</PosX>
-      <PosY>132</PosY>
+      <PosX>151</PosX>
+      <PosY>117</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -908,8 +908,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793909099765</Id>
     <_2DView>
-      <PosX>149</PosX>
-      <PosY>173</PosY>
+      <PosX>151</PosX>
+      <PosY>149</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -920,8 +920,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793909099766</Id>
     <_2DView>
-      <PosX>148</PosX>
-      <PosY>217</PosY>
+      <PosX>149</PosX>
+      <PosY>190</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -1186,6 +1186,486 @@
     <_2DView>
       <PosX>1268</PosX>
       <PosY>267</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>440</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Left/Uplight/01</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793913678073</Id>
+    <_2DView>
+      <PosX>8</PosX>
+      <PosY>247</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>445</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Left/Uplight/02</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793913866721</Id>
+    <_2DView>
+      <PosX>9</PosX>
+      <PosY>273</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>450</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Left/Uplight/03</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793913866722</Id>
+    <_2DView>
+      <PosX>8</PosX>
+      <PosY>297</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>455</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Left/Uplight/04</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793913866723</Id>
+    <_2DView>
+      <PosX>8</PosX>
+      <PosY>322</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>460</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Left/Uplight/05</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793913866724</Id>
+    <_2DView>
+      <PosX>8</PosX>
+      <PosY>347</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>465</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Left/Uplight/06</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793913866725</Id>
+    <_2DView>
+      <PosX>8</PosX>
+      <PosY>373</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>470</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Left/Uplight/07</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793913866726</Id>
+    <_2DView>
+      <PosX>8</PosX>
+      <PosY>398</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>475</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Left/Uplight/08</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793913866727</Id>
+    <_2DView>
+      <PosX>8</PosX>
+      <PosY>424</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>480</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Left/Uplight/09</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793913866728</Id>
+    <_2DView>
+      <PosX>8</PosX>
+      <PosY>451</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>485</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Left/Uplight/10</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793913866729</Id>
+    <_2DView>
+      <PosX>8</PosX>
+      <PosY>476</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>490</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Left/Uplight/11</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793913866730</Id>
+    <_2DView>
+      <PosX>8</PosX>
+      <PosY>502</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>495</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Left/Uplight/12</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793913866731</Id>
+    <_2DView>
+      <PosX>8</PosX>
+      <PosY>528</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>500</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Left/Uplight/13</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793913866732</Id>
+    <_2DView>
+      <PosX>8</PosX>
+      <PosY>553</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>505</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Left/Uplight/14</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793913866733</Id>
+    <_2DView>
+      <PosX>8</PosX>
+      <PosY>578</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>1</Address>
+    <Universe>4</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Left/Uplight/15</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793913866734</Id>
+    <_2DView>
+      <PosX>8</PosX>
+      <PosY>604</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>6</Address>
+    <Universe>4</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Left/Uplight/16</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793913866735</Id>
+    <_2DView>
+      <PosX>8</PosX>
+      <PosY>631</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>11</Address>
+    <Universe>4</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Left/Uplight/17</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793913866736</Id>
+    <_2DView>
+      <PosX>8</PosX>
+      <PosY>657</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>16</Address>
+    <Universe>4</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Left/Uplight/18</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793913866737</Id>
+    <_2DView>
+      <PosX>8</PosX>
+      <PosY>683</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>21</Address>
+    <Universe>4</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Left/Uplight/19</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793913866738</Id>
+    <_2DView>
+      <PosX>8</PosX>
+      <PosY>708</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>26</Address>
+    <Universe>4</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Left/Uplight/20</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793913866739</Id>
+    <_2DView>
+      <PosX>8</PosX>
+      <PosY>730</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>31</Address>
+    <Universe>4</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Right/Uplight/01</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793914206389</Id>
+    <_2DView>
+      <PosX>65</PosX>
+      <PosY>246</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>36</Address>
+    <Universe>4</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Right/Uplight/02</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793914206390</Id>
+    <_2DView>
+      <PosX>65</PosX>
+      <PosY>272</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>41</Address>
+    <Universe>4</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Right/Uplight/03</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793914206391</Id>
+    <_2DView>
+      <PosX>62</PosX>
+      <PosY>299</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>46</Address>
+    <Universe>4</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Right/Uplight/04</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793914206392</Id>
+    <_2DView>
+      <PosX>68</PosX>
+      <PosY>325</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>51</Address>
+    <Universe>4</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Right/Uplight/05</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793914206393</Id>
+    <_2DView>
+      <PosX>65</PosX>
+      <PosY>350</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>56</Address>
+    <Universe>4</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Right/Uplight/06</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793914206394</Id>
+    <_2DView>
+      <PosX>67</PosX>
+      <PosY>375</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>61</Address>
+    <Universe>4</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Right/Uplight/07</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793914206395</Id>
+    <_2DView>
+      <PosX>66</PosX>
+      <PosY>397</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>66</Address>
+    <Universe>4</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Right/Uplight/08</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793914206396</Id>
+    <_2DView>
+      <PosX>66</PosX>
+      <PosY>423</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>71</Address>
+    <Universe>4</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Right/Uplight/09</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793914206397</Id>
+    <_2DView>
+      <PosX>65</PosX>
+      <PosY>450</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>76</Address>
+    <Universe>4</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Right/Uplight/10</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793914206398</Id>
+    <_2DView>
+      <PosX>64</PosX>
+      <PosY>477</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>81</Address>
+    <Universe>4</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Right/Uplight/11</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793914206399</Id>
+    <_2DView>
+      <PosX>64</PosX>
+      <PosY>502</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>86</Address>
+    <Universe>4</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Right/Uplight/12</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793914206400</Id>
+    <_2DView>
+      <PosX>66</PosX>
+      <PosY>526</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>91</Address>
+    <Universe>4</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Right/Uplight/13</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793914206401</Id>
+    <_2DView>
+      <PosX>64</PosX>
+      <PosY>552</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>96</Address>
+    <Universe>4</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Right/Uplight/14</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793914206402</Id>
+    <_2DView>
+      <PosX>65</PosX>
+      <PosY>578</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>101</Address>
+    <Universe>4</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Right/Uplight/15</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793914206403</Id>
+    <_2DView>
+      <PosX>65</PosX>
+      <PosY>605</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>106</Address>
+    <Universe>4</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Right/Uplight/16</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793914206404</Id>
+    <_2DView>
+      <PosX>63</PosX>
+      <PosY>630</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>111</Address>
+    <Universe>4</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Right/Uplight/17</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793914206405</Id>
+    <_2DView>
+      <PosX>62</PosX>
+      <PosY>657</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>116</Address>
+    <Universe>4</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Right/Uplight/18</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793914206406</Id>
+    <_2DView>
+      <PosX>63</PosX>
+      <PosY>682</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>121</Address>
+    <Universe>4</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Right/Uplight/19</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793914206407</Id>
+    <_2DView>
+      <PosX>61</PosX>
+      <PosY>704</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>126</Address>
+    <Universe>4</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Room/Right/Uplight/20</Name>
+    <Model mode="Default">Pretend RGBW Uplight</Model>
+    <Id>1793914206408</Id>
+    <_2DView>
+      <PosX>57</PosX>
+      <PosY>730</PosY>
     </_2DView>
   </Fixture>
 </Fixtures>
