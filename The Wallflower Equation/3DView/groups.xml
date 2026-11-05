@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <Groups>
+        <Group Name="main stage truss" ShortCut="j" Objects="square_4m_1|square_4m_2|square_4m_3|square_1m_1|square_4m_4|square_4m_5|square_4m_6|square_1m_2|square_4m_7|square_2m_1|square_1m_3|square_4m_8|square_2m_2|square_1m_4|square_4m_9|square_2m_3|square_1m_5|square_4m_10|square_2m_4|square_1m_6|square_4m_11|square_2m_5|square_1m_7|square_4m_12|square_2m_6|square_1m_8|"/>
+    </Groups>
+</Root>

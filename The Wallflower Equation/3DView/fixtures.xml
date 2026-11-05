@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+    <Object Id="1793814369443" Name="test" Position="6|5.9|-7.7" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793814634426" Name="test #2" Position="5|5.9|-7.7" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793814634428" Name="test #4" Position="4|5.9|-7.7" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793814634429" Name="test #5" Position="3|5.9|-7.7" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793814634430" Name="test #6" Position="2|5.9|-7.7" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793814634431" Name="test #7" Position="1|5.9|-7.7" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793814634432" Name="test #8" Position="0|5.9|-7.7" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793814634433" Name="test #9" Position="-1|5.9|-7.7" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793814634434" Name="test #10" Position="-2|5.9|-7.7" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793814634435" Name="test #11" Position="-3|5.9|-7.7" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793814634436" Name="test #12" Position="-4|5.9|-7.7" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793814634437" Name="test #13" Position="-5|5.9|-7.7" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793814634438" Name="test #14" Position="-6|5.9|-7.7" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793815976322" Name="/BackRow/01" Position="6|5.9|-14.5" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793815976323" Name="/BackRow/02" Position="5|5.9|-14.5" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793815976324" Name="/BackRow/03" Position="4|5.9|-14.5" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793815976325" Name="/BackRow/04" Position="3|5.9|-14.5" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793815976326" Name="/BackRow/05" Position="2|5.9|-14.5" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793815976327" Name="/BackRow/06" Position="1|5.9|-14.5" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793815976328" Name="/BackRow/07" Position="0|5.9|-14.5" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793815976329" Name="/BackRow/08" Position="-1|5.9|-14.5" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793815976330" Name="/BackRow/09" Position="-2|5.9|-14.5" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793815976331" Name="/BackRow/10" Position="-3|5.9|-14.5" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793815976332" Name="/BackRow/11" Position="-4|5.9|-14.5" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793815976333" Name="/BackRow/12" Position="-5|5.9|-14.5" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793815976334" Name="/BackRow/13" Position="-6|5.9|-14.5" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793817430809" Name="/Top/MiddleRow/01" Position="6|5.9|-11" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793817430810" Name="/Top/MiddleRow/02" Position="5|5.9|-11" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793817430811" Name="/Top/MiddleRow/03" Position="4|5.9|-11" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793817430812" Name="/Top/MiddleRow/04" Position="3|5.9|-11" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793817430813" Name="/Top/MiddleRow/05" Position="2|5.9|-11" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793817430814" Name="/Top/MiddleRow/06" Position="1|5.9|-11" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793817430815" Name="/Top/MiddleRow/07" Position="0|5.9|-11" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793817430816" Name="/Top/MiddleRow/08" Position="-1|5.9|-11" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793817430817" Name="/Top/MiddleRow/09" Position="-2|5.9|-11" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793817430818" Name="/Top/MiddleRow/10" Position="-3|5.9|-11" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793817430819" Name="/Top/MiddleRow/11" Position="-4|5.9|-11" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793817430820" Name="/Top/MiddleRow/12" Position="-5|5.9|-11" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793817430821" Name="/Top/MiddleRow/13" Position="-6|5.9|-11" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793835036904" Name="/Top/LeftLeftColumn/01" Position="5|5.9|-13.5" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793835036905" Name="/Top/LeftLeftColumn/02" Position="5|5.9|-12" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793835036906" Name="/Top/LeftLeftColumn/03" Position="5|5.9|-10" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793835036907" Name="/Top/LeftLeftColumn/04" Position="5|5.9|-8.7" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793835036908" Name="/Top/LeftColumn/01" Position="2.5|5.9|-13.5" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793835036909" Name="/Top/LeftColumn/02" Position="2.5|5.9|-12" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793835036910" Name="/Top/LeftColumn/03" Position="2.5|5.9|-10" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793835036911" Name="/Top/LeftColumn/04" Position="2.5|5.9|-8.7" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793834825702" Name="/Top/MiddleColumn/01" Position="0|5.9|-13.5" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793834825703" Name="/Top/MiddleColumn/02" Position="0|5.9|-12" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793834449587" Name="/Top/MiddleColumn/03" Position="0|5.9|-10" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793834449588" Name="/Top/MiddleColumn/04" Position="0|5.9|-8.7" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793835383802" Name="/Top/RightColumn/01" Position="-2.5|5.9|-13.5" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793835383803" Name="/Top/RightColumn/02" Position="-2.5|5.9|-12" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793835383804" Name="/Top/RightColumn/03" Position="-2.5|5.9|-10" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793835383805" Name="/Top/RightColumn/04" Position="-2.5|5.9|-8.7" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793835383806" Name="/Top/RightRightColumn/01" Position="-5|5.9|-13.5" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793835383807" Name="/Top/RightRightColumn/02" Position="-5|5.9|-12" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793835383808" Name="/Top/RightRightColumn/03" Position="-5|5.9|-10" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793835383809" Name="/Top/RightRightColumn/04" Position="-5|5.9|-8.7" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+</Patch>
