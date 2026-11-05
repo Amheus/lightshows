@@ -8,8 +8,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793814369443</Id>
     <_2DView>
-      <PosX>73</PosX>
-      <PosY>621</PosY>
+      <PosX>858</PosX>
+      <PosY>232</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -20,8 +20,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793814634426</Id>
     <_2DView>
-      <PosX>159</PosX>
-      <PosY>622</PosY>
+      <PosX>895</PosX>
+      <PosY>233</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -32,8 +32,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793814634428</Id>
     <_2DView>
-      <PosX>247</PosX>
-      <PosY>622</PosY>
+      <PosX>938</PosX>
+      <PosY>232</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -44,8 +44,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793814634429</Id>
     <_2DView>
-      <PosX>336</PosX>
-      <PosY>621</PosY>
+      <PosX>971</PosX>
+      <PosY>232</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -56,8 +56,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793814634430</Id>
     <_2DView>
-      <PosX>421</PosX>
-      <PosY>622</PosY>
+      <PosX>1002</PosX>
+      <PosY>232</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -68,8 +68,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793814634431</Id>
     <_2DView>
-      <PosX>510</PosX>
-      <PosY>622</PosY>
+      <PosX>1033</PosX>
+      <PosY>233</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -80,8 +80,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793814634432</Id>
     <_2DView>
-      <PosX>597</PosX>
-      <PosY>621</PosY>
+      <PosX>1073</PosX>
+      <PosY>234</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -92,8 +92,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793814634433</Id>
     <_2DView>
-      <PosX>688</PosX>
-      <PosY>621</PosY>
+      <PosX>1108</PosX>
+      <PosY>233</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -104,8 +104,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793814634434</Id>
     <_2DView>
-      <PosX>777</PosX>
-      <PosY>620</PosY>
+      <PosX>1145</PosX>
+      <PosY>231</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -116,8 +116,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793814634435</Id>
     <_2DView>
-      <PosX>870</PosX>
-      <PosY>621</PosY>
+      <PosX>1174</PosX>
+      <PosY>230</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -128,8 +128,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793814634436</Id>
     <_2DView>
-      <PosX>959</PosX>
-      <PosY>621</PosY>
+      <PosX>1208</PosX>
+      <PosY>232</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -140,8 +140,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793814634437</Id>
     <_2DView>
-      <PosX>1051</PosX>
-      <PosY>622</PosY>
+      <PosX>1244</PosX>
+      <PosY>231</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -152,8 +152,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793814634438</Id>
     <_2DView>
-      <PosX>1138</PosX>
-      <PosY>622</PosY>
+      <PosX>1277</PosX>
+      <PosY>231</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -164,8 +164,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793815976322</Id>
     <_2DView>
-      <PosX>130</PosX>
-      <PosY>31</PosY>
+      <PosX>858</PosX>
+      <PosY>11</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -176,8 +176,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793815976323</Id>
     <_2DView>
-      <PosX>208</PosX>
-      <PosY>32</PosY>
+      <PosX>887</PosX>
+      <PosY>11</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -188,8 +188,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793815976324</Id>
     <_2DView>
-      <PosX>301</PosX>
-      <PosY>31</PosY>
+      <PosX>917</PosX>
+      <PosY>11</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -200,8 +200,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793815976325</Id>
     <_2DView>
-      <PosX>380</PosX>
-      <PosY>34</PosY>
+      <PosX>954</PosX>
+      <PosY>11</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -212,8 +212,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793815976326</Id>
     <_2DView>
-      <PosX>465</PosX>
-      <PosY>32</PosY>
+      <PosX>987</PosX>
+      <PosY>11</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -224,8 +224,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793815976327</Id>
     <_2DView>
-      <PosX>544</PosX>
-      <PosY>31</PosY>
+      <PosX>1020</PosX>
+      <PosY>11</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -236,8 +236,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793815976328</Id>
     <_2DView>
-      <PosX>634</PosX>
-      <PosY>31</PosY>
+      <PosX>1054</PosX>
+      <PosY>12</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -248,8 +248,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793815976329</Id>
     <_2DView>
-      <PosX>720</PosX>
-      <PosY>31</PosY>
+      <PosX>1090</PosX>
+      <PosY>11</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -260,8 +260,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793815976330</Id>
     <_2DView>
-      <PosX>820</PosX>
-      <PosY>32</PosY>
+      <PosX>1125</PosX>
+      <PosY>11</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -272,8 +272,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793815976331</Id>
     <_2DView>
-      <PosX>909</PosX>
-      <PosY>32</PosY>
+      <PosX>1163</PosX>
+      <PosY>11</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -284,8 +284,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793815976332</Id>
     <_2DView>
-      <PosX>999</PosX>
-      <PosY>34</PosY>
+      <PosX>1200</PosX>
+      <PosY>11</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -296,8 +296,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793815976333</Id>
     <_2DView>
-      <PosX>1089</PosX>
-      <PosY>34</PosY>
+      <PosX>1237</PosX>
+      <PosY>11</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -308,8 +308,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793815976334</Id>
     <_2DView>
-      <PosX>1174</PosX>
-      <PosY>34</PosY>
+      <PosX>1272</PosX>
+      <PosY>11</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -320,8 +320,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793817430809</Id>
     <_2DView>
-      <PosX>91</PosX>
-      <PosY>327</PosY>
+      <PosX>855</PosX>
+      <PosY>119</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -332,8 +332,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793817430810</Id>
     <_2DView>
-      <PosX>190</PosX>
-      <PosY>325</PosY>
+      <PosX>882</PosX>
+      <PosY>119</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -344,8 +344,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793817430811</Id>
     <_2DView>
-      <PosX>271</PosX>
-      <PosY>324</PosY>
+      <PosX>913</PosX>
+      <PosY>118</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -356,8 +356,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793817430812</Id>
     <_2DView>
-      <PosX>363</PosX>
-      <PosY>327</PosY>
+      <PosX>942</PosX>
+      <PosY>118</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -368,8 +368,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793817430813</Id>
     <_2DView>
-      <PosX>456</PosX>
-      <PosY>327</PosY>
+      <PosX>975</PosX>
+      <PosY>118</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -380,8 +380,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793817430814</Id>
     <_2DView>
-      <PosX>539</PosX>
-      <PosY>326</PosY>
+      <PosX>1009</PosX>
+      <PosY>118</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -392,8 +392,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793817430815</Id>
     <_2DView>
-      <PosX>619</PosX>
-      <PosY>326</PosY>
+      <PosX>1050</PosX>
+      <PosY>118</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -404,8 +404,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793817430816</Id>
     <_2DView>
-      <PosX>708</PosX>
-      <PosY>326</PosY>
+      <PosX>1094</PosX>
+      <PosY>118</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -416,8 +416,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793817430817</Id>
     <_2DView>
-      <PosX>802</PosX>
-      <PosY>329</PosY>
+      <PosX>1133</PosX>
+      <PosY>119</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -428,8 +428,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793817430818</Id>
     <_2DView>
-      <PosX>891</PosX>
-      <PosY>326</PosY>
+      <PosX>1171</PosX>
+      <PosY>118</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -440,8 +440,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793817430819</Id>
     <_2DView>
-      <PosX>986</PosX>
-      <PosY>325</PosY>
+      <PosX>1206</PosX>
+      <PosY>119</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -452,8 +452,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793817430820</Id>
     <_2DView>
-      <PosX>1074</PosX>
-      <PosY>327</PosY>
+      <PosX>1238</PosX>
+      <PosY>121</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -464,8 +464,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793817430821</Id>
     <_2DView>
-      <PosX>1160</PosX>
-      <PosY>327</PosY>
+      <PosX>1268</PosX>
+      <PosY>122</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -476,8 +476,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793835036904</Id>
     <_2DView>
-      <PosX>115</PosX>
-      <PosY>140</PosY>
+      <PosX>858</PosX>
+      <PosY>47</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -488,8 +488,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793835036905</Id>
     <_2DView>
-      <PosX>115</PosX>
-      <PosY>233</PosY>
+      <PosX>860</PosX>
+      <PosY>81</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -500,8 +500,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793835036906</Id>
     <_2DView>
-      <PosX>76</PosX>
-      <PosY>416</PosY>
+      <PosX>861</PosX>
+      <PosY>156</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -512,8 +512,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793835036907</Id>
     <_2DView>
-      <PosX>77</PosX>
-      <PosY>515</PosY>
+      <PosX>859</PosX>
+      <PosY>195</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -524,8 +524,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793835036908</Id>
     <_2DView>
-      <PosX>382</PosX>
-      <PosY>136</PosY>
+      <PosX>959</PosX>
+      <PosY>44</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -536,8 +536,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793835036909</Id>
     <_2DView>
-      <PosX>377</PosX>
-      <PosY>229</PosY>
+      <PosX>956</PosX>
+      <PosY>80</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -548,8 +548,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793835036910</Id>
     <_2DView>
-      <PosX>359</PosX>
-      <PosY>425</PosY>
+      <PosX>957</PosX>
+      <PosY>153</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -560,8 +560,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793835036911</Id>
     <_2DView>
-      <PosX>350</PosX>
-      <PosY>519</PosY>
+      <PosX>957</PosX>
+      <PosY>194</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -572,8 +572,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793834825702</Id>
     <_2DView>
-      <PosX>628</PosX>
-      <PosY>137</PosY>
+      <PosX>1070</PosX>
+      <PosY>45</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -584,8 +584,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793834825703</Id>
     <_2DView>
-      <PosX>626</PosX>
-      <PosY>232</PosY>
+      <PosX>1073</PosX>
+      <PosY>81</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -596,8 +596,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793834449587</Id>
     <_2DView>
-      <PosX>620</PosX>
-      <PosY>427</PosY>
+      <PosX>1067</PosX>
+      <PosY>156</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -608,8 +608,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793834449588</Id>
     <_2DView>
-      <PosX>618</PosX>
-      <PosY>526</PosY>
+      <PosX>1069</PosX>
+      <PosY>195</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -620,8 +620,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793835383802</Id>
     <_2DView>
-      <PosX>892</PosX>
-      <PosY>139</PosY>
+      <PosX>1176</PosX>
+      <PosY>42</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -632,8 +632,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793835383803</Id>
     <_2DView>
-      <PosX>886</PosX>
-      <PosY>232</PosY>
+      <PosX>1178</PosX>
+      <PosY>82</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -644,8 +644,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793835383804</Id>
     <_2DView>
-      <PosX>885</PosX>
-      <PosY>431</PosY>
+      <PosX>1172</PosX>
+      <PosY>157</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -656,8 +656,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793835383805</Id>
     <_2DView>
-      <PosX>880</PosX>
-      <PosY>523</PosY>
+      <PosX>1173</PosX>
+      <PosY>195</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -668,8 +668,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793835383806</Id>
     <_2DView>
-      <PosX>1166</PosX>
-      <PosY>136</PosY>
+      <PosX>1271</PosX>
+      <PosY>47</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -680,8 +680,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793835383807</Id>
     <_2DView>
-      <PosX>1162</PosX>
-      <PosY>229</PosY>
+      <PosX>1269</PosX>
+      <PosY>86</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -692,8 +692,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793835383808</Id>
     <_2DView>
-      <PosX>1167</PosX>
-      <PosY>431</PosY>
+      <PosX>1275</PosX>
+      <PosY>160</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -704,8 +704,488 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793835383809</Id>
     <_2DView>
-      <PosX>1164</PosX>
-      <PosY>526</PosY>
+      <PosX>1277</PosX>
+      <PosY>198</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>433</Address>
+    <Universe>2</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Columns/RearLeft/01</Name>
+    <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
+    <Id>1793909099749</Id>
+    <_2DView>
+      <PosX>58</PosX>
+      <PosY>5</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>449</Address>
+    <Universe>2</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Columns/RearLeft/02</Name>
+    <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
+    <Id>1793909099750</Id>
+    <_2DView>
+      <PosX>58</PosX>
+      <PosY>43</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>465</Address>
+    <Universe>2</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Columns/RearLeft/03</Name>
+    <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
+    <Id>1793909099751</Id>
+    <_2DView>
+      <PosX>57</PosX>
+      <PosY>80</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>481</Address>
+    <Universe>2</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Columns/RearLeft/04</Name>
+    <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
+    <Id>1793909099752</Id>
+    <_2DView>
+      <PosX>54</PosX>
+      <PosY>118</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>497</Address>
+    <Universe>2</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Columns/RearRight/01</Name>
+    <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
+    <Id>1793909099753</Id>
+    <_2DView>
+      <PosX>212</PosX>
+      <PosY>3</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>1</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Columns/RearRight/02</Name>
+    <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
+    <Id>1793909099754</Id>
+    <_2DView>
+      <PosX>211</PosX>
+      <PosY>46</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>17</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Columns/RearRight/03</Name>
+    <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
+    <Id>1793909099755</Id>
+    <_2DView>
+      <PosX>210</PosX>
+      <PosY>83</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>33</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Columns/RearRight/04</Name>
+    <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
+    <Id>1793909099756</Id>
+    <_2DView>
+      <PosX>211</PosX>
+      <PosY>120</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>49</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Columns/FrontLeft/01</Name>
+    <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
+    <Id>1793909099757</Id>
+    <_2DView>
+      <PosX>12</PosX>
+      <PosY>58</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>65</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Columns/FrontLeft/02</Name>
+    <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
+    <Id>1793909099758</Id>
+    <_2DView>
+      <PosX>12</PosX>
+      <PosY>97</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>81</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Columns/FrontLeft/03</Name>
+    <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
+    <Id>1793909099759</Id>
+    <_2DView>
+      <PosX>12</PosX>
+      <PosY>138</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>97</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Columns/FrontLeft/04</Name>
+    <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
+    <Id>1793909099760</Id>
+    <_2DView>
+      <PosX>13</PosX>
+      <PosY>177</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>113</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Columns/FrontLeft/05</Name>
+    <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
+    <Id>1793909099761</Id>
+    <_2DView>
+      <PosX>12</PosX>
+      <PosY>220</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>129</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Columns/FrontRight/01</Name>
+    <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
+    <Id>1793909099762</Id>
+    <_2DView>
+      <PosX>149</PosX>
+      <PosY>59</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>145</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Columns/FrontRight/02</Name>
+    <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
+    <Id>1793909099763</Id>
+    <_2DView>
+      <PosX>149</PosX>
+      <PosY>95</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>161</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Columns/FrontRight/03</Name>
+    <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
+    <Id>1793909099764</Id>
+    <_2DView>
+      <PosX>150</PosX>
+      <PosY>132</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>177</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Columns/FrontRight/04</Name>
+    <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
+    <Id>1793909099765</Id>
+    <_2DView>
+      <PosX>149</PosX>
+      <PosY>173</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>193</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Columns/FrontRight/05</Name>
+    <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
+    <Id>1793909099766</Id>
+    <_2DView>
+      <PosX>148</PosX>
+      <PosY>217</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>209</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/StageFloor/Rear/01</Name>
+    <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
+    <Id>1793909099767</Id>
+    <_2DView>
+      <PosX>365</PosX>
+      <PosY>43</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>225</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/StageFloor/Rear/02</Name>
+    <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
+    <Id>1793909099768</Id>
+    <_2DView>
+      <PosX>401</PosX>
+      <PosY>42</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>241</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/StageFloor/Rear/03</Name>
+    <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
+    <Id>1793909099769</Id>
+    <_2DView>
+      <PosX>441</PosX>
+      <PosY>42</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>257</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/StageFloor/Rear/04</Name>
+    <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
+    <Id>1793909099770</Id>
+    <_2DView>
+      <PosX>481</PosX>
+      <PosY>42</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>273</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/StageFloor/Rear/05</Name>
+    <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
+    <Id>1793909099771</Id>
+    <_2DView>
+      <PosX>521</PosX>
+      <PosY>42</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>289</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/StageFloor/Rear/06</Name>
+    <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
+    <Id>1793909099772</Id>
+    <_2DView>
+      <PosX>561</PosX>
+      <PosY>42</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>305</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/StageFloor/Rear/07</Name>
+    <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
+    <Id>1793911723962</Id>
+    <_2DView>
+      <PosX>594</PosX>
+      <PosY>41</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>321</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/StageFloor/Rear/08</Name>
+    <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
+    <Id>1793911723963</Id>
+    <_2DView>
+      <PosX>634</PosX>
+      <PosY>41</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>337</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/StageFloor/Rear/09</Name>
+    <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
+    <Id>1793911723964</Id>
+    <_2DView>
+      <PosX>674</PosX>
+      <PosY>41</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>353</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/StageFloor/Rear/10</Name>
+    <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
+    <Id>1793911723965</Id>
+    <_2DView>
+      <PosX>714</PosX>
+      <PosY>41</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>369</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/StageFloor/Rear/11</Name>
+    <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
+    <Id>1793911723966</Id>
+    <_2DView>
+      <PosX>754</PosX>
+      <PosY>41</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>385</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Top/Blinder/01</Name>
+    <Model mode="Default">Pretend RGBW Crowd Blinder</Model>
+    <Id>1793912696778</Id>
+    <_2DView>
+      <PosX>867</PosX>
+      <PosY>268</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>390</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Top/Blinder/02</Name>
+    <Model mode="Default">Pretend RGBW Crowd Blinder</Model>
+    <Id>1793913075666</Id>
+    <_2DView>
+      <PosX>904</PosX>
+      <PosY>267</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>395</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Top/Blinder/03</Name>
+    <Model mode="Default">Pretend RGBW Crowd Blinder</Model>
+    <Id>1793913075667</Id>
+    <_2DView>
+      <PosX>940</PosX>
+      <PosY>267</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>400</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Top/Blinder/04</Name>
+    <Model mode="Default">Pretend RGBW Crowd Blinder</Model>
+    <Id>1793913075668</Id>
+    <_2DView>
+      <PosX>980</PosX>
+      <PosY>267</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>405</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Top/Blinder/05</Name>
+    <Model mode="Default">Pretend RGBW Crowd Blinder</Model>
+    <Id>1793913075669</Id>
+    <_2DView>
+      <PosX>1019</PosX>
+      <PosY>267</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>410</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Top/Blinder/06</Name>
+    <Model mode="Default">Pretend RGBW Crowd Blinder</Model>
+    <Id>1793913075670</Id>
+    <_2DView>
+      <PosX>1066</PosX>
+      <PosY>267</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>415</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Top/Blinder/07</Name>
+    <Model mode="Default">Pretend RGBW Crowd Blinder</Model>
+    <Id>1793913075671</Id>
+    <_2DView>
+      <PosX>1108</PosX>
+      <PosY>267</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>420</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Top/Blinder/08</Name>
+    <Model mode="Default">Pretend RGBW Crowd Blinder</Model>
+    <Id>1793913075672</Id>
+    <_2DView>
+      <PosX>1148</PosX>
+      <PosY>267</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>425</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Top/Blinder/09</Name>
+    <Model mode="Default">Pretend RGBW Crowd Blinder</Model>
+    <Id>1793913075673</Id>
+    <_2DView>
+      <PosX>1188</PosX>
+      <PosY>267</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>430</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Top/Blinder/10</Name>
+    <Model mode="Default">Pretend RGBW Crowd Blinder</Model>
+    <Id>1793913075674</Id>
+    <_2DView>
+      <PosX>1228</PosX>
+      <PosY>267</PosY>
+    </_2DView>
+  </Fixture>
+  <Fixture>
+    <Address>435</Address>
+    <Universe>3</Universe>
+    <ArtNetIp></ArtNetIp>
+    <Name>/Top/Blinder/11</Name>
+    <Model mode="Default">Pretend RGBW Crowd Blinder</Model>
+    <Id>1793913075675</Id>
+    <_2DView>
+      <PosX>1268</PosX>
+      <PosY>267</PosY>
     </_2DView>
   </Fixture>
 </Fixtures>

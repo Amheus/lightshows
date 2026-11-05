@@ -59,4 +59,44 @@
     <Object Id="1793835383807" Name="/Top/RightRightColumn/02" Position="-5|5.9|-12" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
     <Object Id="1793835383808" Name="/Top/RightRightColumn/03" Position="-5|5.9|-10" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
     <Object Id="1793835383809" Name="/Top/RightRightColumn/04" Position="-5|5.9|-8.7" Rotation="0|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793909099749" Name="/Columns/RearLeft/01" Position="5.9|5|-14.4" Rotation="0|0|270" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793909099750" Name="/Columns/RearLeft/02" Position="5.9|4|-14.4" Rotation="0|0|270" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793909099751" Name="/Columns/RearLeft/03" Position="5.9|3|-14.4" Rotation="0|0|270" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793909099752" Name="/Columns/RearLeft/04" Position="5.9|2|-14.4" Rotation="0|0|270" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793909099753" Name="/Columns/RearRight/01" Position="-5.9|5|-14.4" Rotation="0|0|90" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793909099754" Name="/Columns/RearRight/02" Position="-5.9|4|-14.4" Rotation="0|0|90" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793909099755" Name="/Columns/RearRight/03" Position="-5.9|3|-14.4" Rotation="0|0|90" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793909099756" Name="/Columns/RearRight/04" Position="-5.9|2|-14.4" Rotation="0|0|90" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793909099757" Name="/Columns/FrontLeft/01" Position="5.9|5|-7.7" Rotation="0|0|270" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793909099758" Name="/Columns/FrontLeft/02" Position="5.9|4|-7.7" Rotation="0|0|270" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793909099759" Name="/Columns/FrontLeft/03" Position="5.9|3|-7.7" Rotation="0|0|270" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793909099760" Name="/Columns/FrontLeft/04" Position="5.9|2|-7.7" Rotation="0|0|270" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793909099761" Name="/Columns/FrontLeft/05" Position="5.9|1|-7.7" Rotation="0|0|270" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793909099762" Name="/Columns/FrontRight/01" Position="-5.9|5|-7.7" Rotation="0|0|90" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793909099763" Name="/Columns/FrontRight/02" Position="-5.9|4|-7.7" Rotation="0|0|90" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793909099764" Name="/Columns/FrontRight/03" Position="-5.9|3|-7.7" Rotation="0|0|90" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793909099765" Name="/Columns/FrontRight/04" Position="-5.9|2|-7.7" Rotation="0|0|90" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793909099766" Name="/Columns/FrontRight/05" Position="-5.9|1|-7.7" Rotation="0|0|90" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793909099767" Name="/StageFloor/Rear/01" Position="5|1.3|-13.8" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793909099768" Name="/StageFloor/Rear/02" Position="4|1.3|-13.8" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793909099769" Name="/StageFloor/Rear/03" Position="3|1.3|-13.8" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793909099770" Name="/StageFloor/Rear/04" Position="2|1.3|-13.8" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793909099771" Name="/StageFloor/Rear/05" Position="1|1.3|-13.8" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793909099772" Name="/StageFloor/Rear/06" Position="0|1.3|-13.8" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793911723962" Name="/StageFloor/Rear/07" Position="-1|1.3|-13.8" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793911723963" Name="/StageFloor/Rear/08" Position="-2|1.3|-13.8" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793911723964" Name="/StageFloor/Rear/09" Position="-3|1.3|-13.8" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793911723965" Name="/StageFloor/Rear/10" Position="-4|1.3|-13.8" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793911723966" Name="/StageFloor/Rear/11" Position="-5|1.3|-13.8" Rotation="180|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793912696778" Name="/Top/Blinder/01" Position="5|6.4|-7.5" Rotation="75|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793913075666" Name="/Top/Blinder/02" Position="4|6.4|-7.5" Rotation="75|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793913075667" Name="/Top/Blinder/03" Position="3|6.4|-7.5" Rotation="75|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793913075668" Name="/Top/Blinder/04" Position="2|6.4|-7.5" Rotation="75|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793913075669" Name="/Top/Blinder/05" Position="1|6.4|-7.5" Rotation="75|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793913075670" Name="/Top/Blinder/06" Position="0|6.4|-7.5" Rotation="75|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793913075671" Name="/Top/Blinder/07" Position="-1|6.4|-7.5" Rotation="75|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793913075672" Name="/Top/Blinder/08" Position="-2|6.4|-7.5" Rotation="75|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793913075673" Name="/Top/Blinder/09" Position="-3|6.4|-7.5" Rotation="75|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793913075674" Name="/Top/Blinder/10" Position="-4|6.4|-7.5" Rotation="75|0|0" Scale="1|1|1" Color="100|100|100"/>
+    <Object Id="1793913075675" Name="/Top/Blinder/11" Position="-5|6.4|-7.5" Rotation="75|0|0" Scale="1|1|1" Color="100|100|100"/>
 </Patch>

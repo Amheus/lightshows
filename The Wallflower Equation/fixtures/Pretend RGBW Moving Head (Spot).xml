@@ -3,7 +3,7 @@
   <Mode modified="TRUE" name="Default">
     <View>
       <Type>VIEW_TYPE_HEAD</Type>
-      <Power>VIEW_POWER_6</Power>
+      <Power>VIEW_POWER_4</Power>
       <AnglePan>540</AnglePan>
       <AngleTilt>270</AngleTilt>
       <AngleBeam>24</AngleBeam>

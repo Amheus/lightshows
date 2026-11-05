@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Model>
+  <Mode modified="TRUE" name="Default">
+    <View>
+      <Type>VIEW_TYPE_LEDBAR</Type>
+      <Power>VIEW_POWER_6</Power>
+      <AnglePan>0</AnglePan>
+      <AngleTilt>0</AngleTilt>
+      <AngleBeam>30</AngleBeam>
+      <AngleBeamZoom>0</AngleBeamZoom>
+      <ReversePan>FALSE</ReversePan>
+      <ReverseTilt>FALSE</ReverseTilt>
+      <ReverseDimmer>FALSE</ReverseDimmer>
+      <ReverseIris>FALSE</ReverseIris>
+      <Color>#000000</Color>
+    </View>
+    <Matrix>
+      <FirstChannel>0</FirstChannel>
+      <NbLines>0</NbLines>
+      <NbColumns>0</NbColumns>
+      <PixelType>MATRIX_TYPE_RGB</PixelType>
+      <StartCorner>0</StartCorner>
+      <Orientation>0</Orientation>
+      <SnakeMode>0</SnakeMode>
+      <MatrixDMX></MatrixDMX>
+    </Matrix>
+    <Channels>
+      <Channel name="dimmer" path="dimmer/"/>
+      <Channel name="red" path="colors/"/>
+      <Channel name="green" path="colors/"/>
+      <Channel name="blue" path="colors/"/>
+      <Channel name="strobe_macro" path="strobe/">
+        <Level end="0" name="auto" start="0"/>
+        <Level end="100" name="macro_1" start="51"/>
+        <Level end="150" name="macro_2" start="101"/>
+      </Channel>
+    </Channels>
+  </Mode>
+</Model>
