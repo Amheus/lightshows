@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Generator>
+  <Params>
+    <Duration>1000</Duration>
+  </Params>
+  <Fixtures>
+    <Fixture>
+      <Id>1793911723965</Id>
+      <ReversePan>FALSE</ReversePan>
+      <ReverseTilt>FALSE</ReverseTilt>
+    </Fixture>
+    <Fixture>
+      <Id>1793911723966</Id>
+      <ReversePan>FALSE</ReversePan>
+      <ReverseTilt>FALSE</ReverseTilt>
+    </Fixture>
+    <Fixture>
+      <Id>1793911723964</Id>
+      <ReversePan>FALSE</ReversePan>
+      <ReverseTilt>FALSE</ReverseTilt>
+    </Fixture>
+    <Fixture>
+      <Id>1793911723963</Id>
+      <ReversePan>FALSE</ReversePan>
+      <ReverseTilt>FALSE</ReverseTilt>
+    </Fixture>
+    <Fixture>
+      <Id>1793911723962</Id>
+      <ReversePan>FALSE</ReversePan>
+      <ReverseTilt>FALSE</ReverseTilt>
+    </Fixture>
+    <Fixture>
+      <Id>1793909099772</Id>
+      <ReversePan>FALSE</ReversePan>
+      <ReverseTilt>FALSE</ReverseTilt>
+    </Fixture>
+    <Fixture>
+      <Id>1793909099771</Id>
+      <ReversePan>FALSE</ReversePan>
+      <ReverseTilt>FALSE</ReverseTilt>
+    </Fixture>
+    <Fixture>
+      <Id>1793909099770</Id>
+      <ReversePan>FALSE</ReversePan>
+      <ReverseTilt>FALSE</ReverseTilt>
+    </Fixture>
+    <Fixture>
+      <Id>1793909099769</Id>
+      <ReversePan>FALSE</ReversePan>
+      <ReverseTilt>FALSE</ReverseTilt>
+    </Fixture>
+    <Fixture>
+      <Id>1793909099768</Id>
+      <ReversePan>FALSE</ReversePan>
+      <ReverseTilt>FALSE</ReverseTilt>
+    </Fixture>
+    <Fixture>
+      <Id>1793909099767</Id>
+      <ReversePan>FALSE</ReversePan>
+      <ReverseTilt>FALSE</ReverseTilt>
+    </Fixture>
+  </Fixtures>
+  <Channels>
+    <Channel name="Pan/Tilt">
+      <Selected>TRUE</Selected>
+      <Type>2</Type>
+      <Shift>0</Shift>
+      <SubGroups>0</SubGroups>
+      <LastEqFirst>FALSE</LastEqFirst>
+      <Points>
+        <Point disabled="FALSE" time="0" transition="curve" value="0" x="0" y="32767"/>
+        <FixturePoint disabled="FALSE" id="1793911723965" transition="curve" value="0" x="32875" y="27396"/>
+        <FixturePoint disabled="FALSE" id="1793911723966" transition="curve" value="0" x="32875" y="27396"/>
+        <FixturePoint disabled="FALSE" id="1793911723964" transition="curve" value="0" x="32875" y="27396"/>
+        <FixturePoint disabled="FALSE" id="1793911723963" transition="curve" value="0" x="32875" y="27396"/>
+        <FixturePoint disabled="FALSE" id="1793911723962" transition="curve" value="0" x="32875" y="27396"/>
+        <FixturePoint disabled="FALSE" id="1793909099772" transition="curve" value="0" x="32875" y="27396"/>
+        <FixturePoint disabled="FALSE" id="1793909099771" transition="curve" value="0" x="32875" y="27396"/>
+        <FixturePoint disabled="FALSE" id="1793909099770" transition="curve" value="0" x="32875" y="27396"/>
+        <FixturePoint disabled="FALSE" id="1793909099769" transition="curve" value="0" x="32875" y="27396"/>
+        <FixturePoint disabled="FALSE" id="1793909099768" transition="curve" value="0" x="32875" y="27396"/>
+        <FixturePoint disabled="FALSE" id="1793909099767" transition="curve" value="0" x="32875" y="27396"/>
+        <Point disabled="FALSE" time="65104" transition="curve" value="65535" x="32875" y="47825"/>
+        <FixturePoint disabled="FALSE" id="1793911723965" transition="curve" value="65535" x="32789" y="56527"/>
+        <FixturePoint disabled="FALSE" id="1793911723966" transition="curve" value="65535" x="32789" y="56527"/>
+        <FixturePoint disabled="FALSE" id="1793911723964" transition="curve" value="65535" x="32789" y="56527"/>
+        <FixturePoint disabled="FALSE" id="1793911723963" transition="curve" value="65535" x="32789" y="56527"/>
+        <FixturePoint disabled="FALSE" id="1793911723962" transition="curve" value="65535" x="32789" y="56527"/>
+        <FixturePoint disabled="FALSE" id="1793909099772" transition="curve" value="65535" x="32789" y="56527"/>
+        <FixturePoint disabled="FALSE" id="1793909099771" transition="curve" value="65535" x="32789" y="56527"/>
+        <FixturePoint disabled="FALSE" id="1793909099770" transition="curve" value="65535" x="32789" y="56527"/>
+        <FixturePoint disabled="FALSE" id="1793909099769" transition="curve" value="65535" x="32789" y="56527"/>
+        <FixturePoint disabled="FALSE" id="1793909099768" transition="curve" value="65535" x="32789" y="56527"/>
+        <FixturePoint disabled="FALSE" id="1793909099767" transition="curve" value="65535" x="32789" y="56527"/>
+      </Points>
+    </Channel>
+    <Channel name="RGB">
+      <Selected>TRUE</Selected>
+      <Type>3</Type>
+      <Shift>0</Shift>
+      <SubGroups>0</SubGroups>
+      <LastEqFirst>FALSE</LastEqFirst>
+      <Points>
+        <Point disabled="FALSE" time="0" transition="curve" value="0" x="24997" y="47034"/>
+        <FixturePoint disabled="FALSE" id="1793911723965" transition="curve" value="0" x="34126" y="32393"/>
+        <FixturePoint disabled="FALSE" id="1793911723966" transition="curve" value="0" x="34126" y="32393"/>
+        <FixturePoint disabled="FALSE" id="1793911723964" transition="curve" value="0" x="34126" y="32393"/>
+        <FixturePoint disabled="FALSE" id="1793911723963" transition="curve" value="0" x="34126" y="32393"/>
+        <FixturePoint disabled="FALSE" id="1793911723962" transition="curve" value="0" x="34126" y="32393"/>
+        <FixturePoint disabled="FALSE" id="1793909099772" transition="curve" value="0" x="34126" y="32393"/>
+        <FixturePoint disabled="FALSE" id="1793909099771" transition="curve" value="0" x="34126" y="32393"/>
+        <FixturePoint disabled="FALSE" id="1793909099770" transition="curve" value="0" x="34126" y="32393"/>
+        <FixturePoint disabled="FALSE" id="1793909099769" transition="curve" value="0" x="34126" y="32393"/>
+        <FixturePoint disabled="FALSE" id="1793909099768" transition="curve" value="0" x="34126" y="32393"/>
+        <FixturePoint disabled="FALSE" id="1793909099767" transition="curve" value="0" x="34126" y="32393"/>
+      </Points>
+    </Channel>
+    <Channel name="shutter">
+      <Selected>TRUE</Selected>
+      <Type>0</Type>
+      <Shift>0</Shift>
+      <SubGroups>0</SubGroups>
+      <LastEqFirst>FALSE</LastEqFirst>
+      <Points>
+        <Point disabled="FALSE" time="0" transition="point" value="0" x="0" y="65535"/>
+        <Point disabled="FALSE" time="65535" transition="point" value="0" x="65535" y="65535"/>
+      </Points>
+    </Channel>
+    <Channel name="beam">
+      <Selected>FALSE</Selected>
+      <Type>0</Type>
+      <Shift>0</Shift>
+      <SubGroups>0</SubGroups>
+      <LastEqFirst>FALSE</LastEqFirst>
+      <Points>
+        <Point disabled="FALSE" time="0" transition="point" value="0" x="0" y="65535"/>
+        <Point disabled="FALSE" time="65535" transition="point" value="0" x="65535" y="65535"/>
+      </Points>
+    </Channel>
+    <Channel name="frost">
+      <Selected>FALSE</Selected>
+      <Type>0</Type>
+      <Shift>0</Shift>
+      <SubGroups>0</SubGroups>
+      <LastEqFirst>FALSE</LastEqFirst>
+      <Points>
+        <Point disabled="FALSE" time="0" transition="point" value="0" x="0" y="65535"/>
+        <Point disabled="FALSE" time="65535" transition="point" value="0" x="65535" y="65535"/>
+      </Points>
+    </Channel>
+    <Channel name="iris">
+      <Selected>TRUE</Selected>
+      <Type>0</Type>
+      <Shift>0</Shift>
+      <SubGroups>0</SubGroups>
+      <LastEqFirst>FALSE</LastEqFirst>
+      <Points>
+        <Point disabled="FALSE" time="0" transition="line" value="0" x="0" y="0"/>
+        <Point disabled="FALSE" time="65104" transition="point" value="0" x="65104" y="65535"/>
+        <Point disabled="FALSE" time="65535" transition="point" value="0" x="65535" y="0"/>
+      </Points>
+    </Channel>
+    <Channel name="zoom">
+      <Selected>FALSE</Selected>
+      <Type>0</Type>
+      <Shift>0</Shift>
+      <SubGroups>0</SubGroups>
+      <LastEqFirst>FALSE</LastEqFirst>
+      <Points>
+        <Point disabled="FALSE" time="0" transition="point" value="0" x="0" y="65535"/>
+        <Point disabled="FALSE" time="65535" transition="point" value="0" x="65535" y="65535"/>
+      </Points>
+    </Channel>
+    <Channel name="prism">
+      <Selected>FALSE</Selected>
+      <Type>0</Type>
+      <Shift>0</Shift>
+      <SubGroups>0</SubGroups>
+      <LastEqFirst>FALSE</LastEqFirst>
+      <Points>
+        <Point disabled="FALSE" time="0" transition="point" value="0" x="0" y="65535"/>
+        <Point disabled="FALSE" time="65535" transition="point" value="0" x="65535" y="65535"/>
+      </Points>
+    </Channel>
+    <Channel name="prism_rotate">
+      <Selected>FALSE</Selected>
+      <Type>0</Type>
+      <Shift>0</Shift>
+      <SubGroups>0</SubGroups>
+      <LastEqFirst>FALSE</LastEqFirst>
+      <Points>
+        <Point disabled="FALSE" time="0" transition="point" value="0" x="0" y="65535"/>
+        <Point disabled="FALSE" time="65535" transition="point" value="0" x="65535" y="65535"/>
+      </Points>
+    </Channel>
+    <Channel name="gobo_wheel">
+      <Selected>FALSE</Selected>
+      <Type>1</Type>
+      <Shift>0</Shift>
+      <SubGroups>0</SubGroups>
+      <LastEqFirst>FALSE</LastEqFirst>
+      <Points/>
+    </Channel>
+    <Channel name="gobo_rotate">
+      <Selected>FALSE</Selected>
+      <Type>0</Type>
+      <Shift>0</Shift>
+      <SubGroups>0</SubGroups>
+      <LastEqFirst>FALSE</LastEqFirst>
+      <Points>
+        <Point disabled="FALSE" time="0" transition="point" value="0" x="0" y="65535"/>
+        <Point disabled="FALSE" time="65535" transition="point" value="0" x="65535" y="65535"/>
+      </Points>
+    </Channel>
+    <Channel name="gobo_shake">
+      <Selected>FALSE</Selected>
+      <Type>0</Type>
+      <Shift>0</Shift>
+      <SubGroups>0</SubGroups>
+      <LastEqFirst>FALSE</LastEqFirst>
+      <Points>
+        <Point disabled="FALSE" time="0" transition="point" value="0" x="0" y="65535"/>
+        <Point disabled="FALSE" time="65535" transition="point" value="0" x="65535" y="65535"/>
+      </Points>
+    </Channel>
+    <Channel name="dimmer">
+      <Selected>TRUE</Selected>
+      <Type>0</Type>
+      <Shift>0</Shift>
+      <SubGroups>0</SubGroups>
+      <LastEqFirst>FALSE</LastEqFirst>
+      <Points>
+        <Point disabled="FALSE" time="0" transition="line" value="0" x="0" y="0"/>
+        <Point disabled="FALSE" time="65104" transition="point" value="0" x="65104" y="65535"/>
+        <Point disabled="FALSE" time="65535" transition="point" value="0" x="65535" y="0"/>
+      </Points>
+    </Channel>
+  </Channels>
+</Generator>

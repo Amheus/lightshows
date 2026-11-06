@@ -79,13 +79,16 @@
         <FixturePoint disabled="FALSE" id="1793817430819" transition="curve" value="0" x="53195" y="31407"/>
       </Points>
     </Channel>
-    <Channel name="strobe">
-      <Selected>FALSE</Selected>
-      <Type>1</Type>
+    <Channel name="shutter">
+      <Selected>TRUE</Selected>
+      <Type>0</Type>
       <Shift>0</Shift>
       <SubGroups>0</SubGroups>
       <LastEqFirst>FALSE</LastEqFirst>
-      <Points/>
+      <Points>
+        <Point disabled="FALSE" time="0" transition="point" value="0" x="0" y="65535"/>
+        <Point disabled="FALSE" time="65535" transition="point" value="0" x="65535" y="65535"/>
+      </Points>
     </Channel>
     <Channel name="focus">
       <Selected>FALSE</Selected>

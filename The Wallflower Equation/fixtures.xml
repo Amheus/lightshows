@@ -236,8 +236,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793815976328</Id>
     <_2DView>
-      <PosX>1054</PosX>
-      <PosY>12</PosY>
+      <PosX>1061</PosX>
+      <PosY>11</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -248,8 +248,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793815976329</Id>
     <_2DView>
-      <PosX>1090</PosX>
-      <PosY>11</PosY>
+      <PosX>1097</PosX>
+      <PosY>10</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -380,8 +380,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793817430814</Id>
     <_2DView>
-      <PosX>1009</PosX>
-      <PosY>118</PosY>
+      <PosX>1020</PosX>
+      <PosY>117</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -392,7 +392,7 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793817430815</Id>
     <_2DView>
-      <PosX>1050</PosX>
+      <PosX>1072</PosX>
       <PosY>118</PosY>
     </_2DView>
   </Fixture>
@@ -404,8 +404,8 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793817430816</Id>
     <_2DView>
-      <PosX>1094</PosX>
-      <PosY>118</PosY>
+      <PosX>1108</PosX>
+      <PosY>119</PosY>
     </_2DView>
   </Fixture>
   <Fixture>
@@ -416,7 +416,7 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793817430817</Id>
     <_2DView>
-      <PosX>1133</PosX>
+      <PosX>1140</PosX>
       <PosY>119</PosY>
     </_2DView>
   </Fixture>
@@ -584,7 +584,7 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793834825703</Id>
     <_2DView>
-      <PosX>1073</PosX>
+      <PosX>1080</PosX>
       <PosY>81</PosY>
     </_2DView>
   </Fixture>
@@ -596,7 +596,7 @@
     <Model mode="Default">Pretend RGBW Moving Head (Spot)</Model>
     <Id>1793834449587</Id>
     <_2DView>
-      <PosX>1067</PosX>
+      <PosX>1074</PosX>
       <PosY>156</PosY>
     </_2DView>
   </Fixture>

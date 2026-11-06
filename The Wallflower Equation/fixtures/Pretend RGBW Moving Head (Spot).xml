@@ -31,11 +31,12 @@
       <Channel name="green" path="colors/"/>
       <Channel name="blue" path="colors/"/>
       <Channel name="dimmer" path="dimmer/"/>
-      <Channel name="strobe" path="strobe/">
-        <Level end="50" name="new level" start="0"/>
-        <Level end="100" name="auto" start="51"/>
+      <Channel name="shutter" path="shutter/">
+        <Level end="50" name="closed" start="0"/>
+        <Level end="200" name="strobe" start="51"/>
+        <Level end="255" name="open" start="201"/>
       </Channel>
-      <Channel name="focus" path="focus/"/>
+      <Channel name="beam" path="beam/"/>
       <Channel name="frost" path="frost/"/>
       <Channel name="iris" path="iris/"/>
       <Channel name="zoom" path="zoom/"/>
