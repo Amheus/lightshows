@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TimeLine>
+  <Params>
+    <Duration>7200</Duration>
+    <Tracks>11</Tracks>
+    <Zoom>0</Zoom>
+  </Params>
+  <Tracks>
+    <Track>
+      <Height>100</Height>
+    </Track>
+    <Track/>
+    <Track/>
+    <Track/>
+    <Track/>
+    <Track/>
+    <Track/>
+    <Track/>
+    <Track/>
+    <Track/>
+    <Track/>
+  </Tracks>
+  <Items>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>BPM</Type>
+      <StartTime>0</StartTime>
+      <Path>BPM</Path>
+      <Length>10</Length>
+      <BPM>140</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>0</TrackIndex>
+      <Type>MEDIA</Type>
+      <StartTime>0</StartTime>
+      <Path>Z:/Music/Electronic/Vylet Pony/Vylet Pony - Monarch of Monsters/Vylet Pony - Monarch of Monsters - 06 The Wallflower Equation.flac</Path>
+      <Length>7205</Length>
+      <MediaDuration>720500</MediaDuration>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>116</StartTime>
+      <Path>Player Cages/Keyboards</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>123</StartTime>
+      <Path>Player Cages/Guitarist</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>132</StartTime>
+      <Path>Player Cages/Keyboards</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>139</StartTime>
+      <Path>Player Cages/Guitarist</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>150</StartTime>
+      <Path>Player Cages/Keyboards</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>157</StartTime>
+      <Path>Player Cages/Guitarist</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>167</StartTime>
+      <Path>Player Cages/Keyboards</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>175</StartTime>
+      <Path>Player Cages/Guitarist</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>185</StartTime>
+      <Path>Player Cages/Keyboards</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>192</StartTime>
+      <Path>Player Cages/Guitarist</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>202</StartTime>
+      <Path>Player Cages/Keyboards</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>209</StartTime>
+      <Path>Player Cages/Guitarist</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>218</StartTime>
+      <Path>Player Cages/Keyboards</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>226</StartTime>
+      <Path>Player Cages/Guitarist</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>236</StartTime>
+      <Path>Player Cages/Keyboards</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>244</StartTime>
+      <Path>Player Cages/Guitarist</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>253</StartTime>
+      <Path>Player Cages/Keyboards</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>261</StartTime>
+      <Path>Player Cages/Guitarist</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>270</StartTime>
+      <Path>Player Cages/Keyboards</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>278</StartTime>
+      <Path>Player Cages/Guitarist</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>288</StartTime>
+      <Path>Player Cages/Keyboards</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>295</StartTime>
+      <Path>Player Cages/Guitarist</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>305</StartTime>
+      <Path>Player Cages/Keyboards</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>312</StartTime>
+      <Path>Player Cages/Guitarist</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>321</StartTime>
+      <Path>Player Cages/Keyboards</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>329</StartTime>
+      <Path>Player Cages/Guitarist</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>338</StartTime>
+      <Path>Player Cages/Keyboards</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>346</StartTime>
+      <Path>Player Cages/Guitarist</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>355</StartTime>
+      <Path>Player Cages/Keyboards</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>362</StartTime>
+      <Path>Player Cages/Guitarist</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>372</StartTime>
+      <Path>Player Cages/Keyboards</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>380</StartTime>
+      <Path>Player Cages/Guitarist</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>390</StartTime>
+      <Path>Player Cages/Keyboards</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>398</StartTime>
+      <Path>Player Cages/Guitarist</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>408</StartTime>
+      <Path>Player Cages/Keyboards</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>415</StartTime>
+      <Path>Player Cages/Guitarist</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>424</StartTime>
+      <Path>Player Cages/Keyboards</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>432</StartTime>
+      <Path>Player Cages/Guitarist</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>441</StartTime>
+      <Path>Player Cages/Keyboards</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>449</StartTime>
+      <Path>Player Cages/Guitarist</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>459</StartTime>
+      <Path>Player Cages/Keyboards</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>466</StartTime>
+      <Path>Player Cages/Guitarist</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>475</StartTime>
+      <Path>Player Cages/Keyboards</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>483</StartTime>
+      <Path>Player Cages/Guitarist</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>493</StartTime>
+      <Path>Player Cages/Keyboards</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>501</StartTime>
+      <Path>Player Cages/Guitarist</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>511</StartTime>
+      <Path>Player Cages/Keyboards</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>518</StartTime>
+      <Path>Player Cages/Guitarist</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>528</StartTime>
+      <Path>Player Cages/Keyboards</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>535</StartTime>
+      <Path>Player Cages/Guitarist</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>544</StartTime>
+      <Path>Player Cages/Keyboards</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>551</StartTime>
+      <Path>Player Cages/Guitarist</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>561</StartTime>
+      <Path>Player Cages/Keyboards</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>568</StartTime>
+      <Path>Player Cages/Guitarist</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>577</StartTime>
+      <Path>Player Cages/Keyboards</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>585</StartTime>
+      <Path>Player Cages/Guitarist</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>3</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>594</StartTime>
+      <Path>Player Spots/Vocalist From Rear</Path>
+      <Length>71</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>595</StartTime>
+      <Path>Player Cages/Keyboards</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>603</StartTime>
+      <Path>Player Cages/Guitarist</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>613</StartTime>
+      <Path>Player Cages/Keyboards</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>621</StartTime>
+      <Path>Player Cages/Guitarist</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>631</StartTime>
+      <Path>Player Cages/Keyboards</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>638</StartTime>
+      <Path>Player Cages/Guitarist</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>648</StartTime>
+      <Path>Player Cages/Keyboards</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>655</StartTime>
+      <Path>Player Cages/Guitarist</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>4</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>665</StartTime>
+      <Path>Background/Rainbow Back Wall</Path>
+      <Length>138</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>3</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>712</StartTime>
+      <Path>Player Spots/Vocalist From Rear</Path>
+      <Length>91</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>5</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>734</StartTime>
+      <Path>Player Spots/Drums From Above - Red Gobo</Path>
+      <Length>69</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>6</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>803</StartTime>
+      <Path>Crowd/Red Strobes Intense</Path>
+      <Length>8</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>4</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>811</StartTime>
+      <Path>Background/Rainbow Back Wall</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>6</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>818</StartTime>
+      <Path>Crowd/Red Strobes Intense</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>4</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>827</StartTime>
+      <Path>Background/Rainbow Back Wall</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>6</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>835</StartTime>
+      <Path>Crowd/Red Strobes Intense</Path>
+      <Length>8</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>4</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>844</StartTime>
+      <Path>Background/Rainbow Back Wall</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>6</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>851</StartTime>
+      <Path>Crowd/Red Strobes Intense</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>4</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>861</StartTime>
+      <Path>Background/Rainbow Back Wall</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>6</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>869</StartTime>
+      <Path>Crowd/Red Strobes Intense</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>4</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>879</StartTime>
+      <Path>Background/Rainbow Back Wall</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>6</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>886</StartTime>
+      <Path>Crowd/Red Strobes Intense</Path>
+      <Length>10</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>4</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>897</StartTime>
+      <Path>Background/Rainbow Back Wall</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>6</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>904</StartTime>
+      <Path>Crowd/Red Strobes Intense</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>4</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>914</StartTime>
+      <Path>Background/Rainbow Back Wall</Path>
+      <Length>7</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>6</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>922</StartTime>
+      <Path>Crowd/Red Strobes Intense</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>931</StartTime>
+      <Path>Crowd/Back Wall Swoop Down</Path>
+      <Length>9</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>940</StartTime>
+      <Path>General Stage/Red Inner Circle</Path>
+      <Length>121</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>1077</StartTime>
+      <Path>Player Spots/Vocalist From Rear</Path>
+      <Length>59</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>1385</StartTime>
+      <Path>Crowd/Red Strobes Intense</Path>
+      <Length>30</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>1419</StartTime>
+      <Path>Crowd/Red Strobes Intense</Path>
+      <Length>29</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>1454</StartTime>
+      <Path>Crowd/Red Strobes Intense</Path>
+      <Length>29</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>1</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>1488</StartTime>
+      <Path>Crowd/Red Strobes Intense</Path>
+      <Length>130</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>2</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>1533</StartTime>
+      <Path>Background/Rainbow Back Wall</Path>
+      <Length>85</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>4</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>1649</StartTime>
+      <Path>Crowd/Blinders Steady On 25percent</Path>
+      <Length>16</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>4</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>1672</StartTime>
+      <Path>Crowd/Blinders Steady On 25percent</Path>
+      <Length>15</Length>
+      <BPM>130</BPM>
+    </Item>
+    <Item>
+      <TrackIndex>3</TrackIndex>
+      <Type>GENERATOR</Type>
+      <StartTime>1686</StartTime>
+      <Path>Crowd/Back Wall Swoop Down</Path>
+      <Length>8</Length>
+      <BPM>130</BPM>
+    </Item>
+  </Items>
+</TimeLine>
